@@ -3,6 +3,8 @@ node_js:
 - '4'
 - '6'
 before_script:
+- npm install
+- npm rn build
 - touch hello.txt
 script:
 - ls hello.txt

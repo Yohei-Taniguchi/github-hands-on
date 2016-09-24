@@ -1,0 +1,26 @@
+{
+  "name": "github-hands-on",
+  "version": "1.0.0",
+  "description": "2016/09/24 Wacker#6",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "wapuu": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "build": "gulp" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yohei-Taniguchi/github-hands-on.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yohei-Taniguchi/github-hands-on/issues"
+  },
+  "homepage": "https://github.com/Yohei-Taniguchi/github-hands-on#readme"
+}
