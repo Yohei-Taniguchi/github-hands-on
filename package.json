@@ -4,8 +4,7 @@
   "description": "2016/09/24 Wacker#6",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^3.1.1",
-    "wapuu": "^1.0.0"
+    "jquery": "^3.1.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1"

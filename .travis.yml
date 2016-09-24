@@ -5,7 +5,5 @@ node_js:
 before_script:
 - npm install
 - npm run build
-- touch hello.txt
 script:
-- ls hello.txt
 - ls index.html
